@@ -8,7 +8,7 @@ First of all, I would like to thank you for actually taking your time to visit m
 
 Anyways, I created this blog for the purpose of documenting my journey of growing myself as a person, be it professionally or my personal life. It's also a place for me to share my opinions on topics that interest me. As for what kind of content I want to write, I honestly don't really know yet. For starters, I thought of documenting the new skills that I learn in the world of IT, and maybe a few anime reviews here and there. We'll see how it goes.
 
-As for the technical side of things, this blog was built using [Jekyll](https://jekyllrb.com/ "Jekyll") and hosted on GitHub Pages. It's pretty nice as Jekyll doesn't use databases or web servers and I can just focus on writing the content. 
+As for the technical side of things, this blog was built using [Jekyll](https://jekyllrb.com/ "Jekyll") and hosted on GitHub Pages. It's pretty nice as Jekyll doesn't use databases or web servers and I can just focus on writing the content. There's definitely a few other things I want to work on such as creating a newsletter and maybe an RSS feed.
 
 To conclude, I hope this blog will grow to become a place of healthy discussion and debate, a place where I can acquire varying perspectives on many different things. And may 2022 bring us bigger and better things than ever before.
 
