@@ -1,7 +1,9 @@
 ---
 title: "A new year, a new start."
 layout: post
+comments: true
 ---
+
 First of all, I would like to thank you for actually taking your time to visit my blog in the first place. It pleases me to know that some people out there support what I do.
 
 2021 was a mixed bag of a year for me. I finally finished my SPM examinations and got enrolled into university. Although one thing's for sure, staring at a computer screen for 8 hours a day is definitely the furthest thing from fun. Hurts my eyesight too. I had hoped to return to campus at the start of my 2nd trimester this month, but time and money constraints prevented me from doing so. Here's to staring at a computer screen for another 3 months.

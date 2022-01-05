@@ -25,7 +25,7 @@ external: # shows a footer with social links - for available icons see fontaweso
   - { title: Website, icon: globe-asia, url: "https://naxph.dev" }
 
 comments:
-#  disqus_shortname: ""    # see https://disqus.com/
+  disqus_shortname: "naxph" # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
 
 plugins:
